@@ -3,7 +3,7 @@ using System.IO;
 
 namespace CodingInterview
 {
-    class ReverseLinkedList
+    class Program
     {
         static void Main(string[] args)
         {
@@ -12,8 +12,6 @@ namespace CodingInterview
 			LL.Add(5);
 			Console.WriteLine(LL.ToString());
 			LL.Add(4);
-			Console.WriteLine(LL.ToString());
-			LL.Add(2);
 			Console.WriteLine(LL.ToString());
 			LL.Reverse();
 			Console.WriteLine(LL.ToString());

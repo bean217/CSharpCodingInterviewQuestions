@@ -1,0 +1,13 @@
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.exe
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.deps.json
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.runtimeconfig.json
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.runtimeconfig.dev.json
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.dll
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\bin\Debug\netcoreapp3.1\CodingInterview.pdb
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.csprojAssemblyReference.cache
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.AssemblyInfoInputs.cache
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.AssemblyInfo.cs
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.csproj.CoreCompileInputs.cache
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.dll
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.pdb
+C:\Users\gamei\source\repos\CodingInterview\CodingInterview\obj\Debug\netcoreapp3.1\CodingInterview.genruntimeconfig.cache
